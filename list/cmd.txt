@@ -1,0 +1,3 @@
+bash convert_video_to_images.sh ~/UCF-5 10
+bash convert_images_to_list.sh ~/UCF-101 5
+
